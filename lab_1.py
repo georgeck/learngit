@@ -1,3 +1,2 @@
 name = 'Liza'
-
-print(f'Hello {Liza}')
+print(f'Hello {name}')
